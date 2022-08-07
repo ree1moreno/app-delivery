@@ -22,7 +22,36 @@ O projeto não é só codar, mas também é trabalhar em equipe, aprender e se d
 - [William Kassab](https://www.linkedin.com/in/william-marcelli-kassab/);
   <br>
   <br>
+
+## Aplicação
+
+Para ver a aplicação funcionando:
+
+- clone o repositório:
   <br>
+  ` git clone git@github.com:ree1moreno/app-delivery.git`
+
+- entre na pasta e instale dependências:
+  <br>
+  `cd app-delivery`
+  `npm install`
+
+- será necessário instalar as depências tanto do front-end como do back-end:
+  <br>
+  `cd back-end`
+  <br>
+  `npm install`
+  <br>
+  `cd front-end`
+  <br>
+  `npm install`
+
+- também é necessário iniciar a aplicação separadamente em cada pasta back-end e front-end com o comando:
+  <br>
+  `npm start`
+
+- acesse o localhost:3000 no navegador e veja a aplicação funcionando :)
+  - <strong>lembre-se de arrumar as variáveis de ambiente no arquivo .env do back-end para não gerar problemas</strong>
 
 <hr>
 **Veja abaixo o contexto da entrega que deve ser feita:**
